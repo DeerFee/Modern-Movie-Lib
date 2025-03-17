@@ -37,10 +37,6 @@ cd Modern-Movie-Lib
 pip install -r requirements.txt
 ```
 
-## Использование
-
-[Добавьте инструкции по использованию и примеры]
-
 ## Как внести свой вклад
 
 1. Создайте форк проекта
@@ -48,16 +44,6 @@ pip install -r requirements.txt
 3. Зафиксируйте изменения (`git commit -m 'Добавлена новая функция'`)
 4. Отправьте изменения в репозиторий (`git push origin feature/НоваяФункция`)
 5. Создайте Pull Request
-
-## Лицензия
-
-[Добавьте выбранную вами лицензию]
-
-## Контакты
-
-DeerFee - [GitHub профиль](https://github.com/DeerFee)
-
-Ссылка на проект: [https://github.com/DeerFee/Modern-Movie-Lib](https://github.com/DeerFee/Modern-Movie-Lib)
 
 ## Дата последнего обновления
 
