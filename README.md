@@ -9,9 +9,6 @@
 ```bash
 pip install -r requirements.txt
 ```  
-2. Измените имя файла `config_example.py` на `config.py` и замените значение 
-```py
-TMDB_API_KEY = "your-api-key-here"
-```  
-на ваш API-ключ  
+2. Измените имя файла `config_example.py` на `config.py` и замените `your-api-key-here` на ваш API-ключ.  
+   
 3. Запустите `movie_library.py`  
