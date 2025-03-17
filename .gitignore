@@ -1,6 +1,7 @@
 # Python
 __pycache__/
 *.py[cod]
+*.pyc
 *$py.class
 *.so
 .Python
@@ -24,3 +25,4 @@ wheels/
 # Project specific
 movie_library_modern.json
 .env
+config.py

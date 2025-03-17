@@ -12,7 +12,7 @@ import threading
 import darkdetect
 
 # Настройка TMDB API
-TMDB_API_KEY = "6dd0f361fce98637fbce06da5a2a272f"  # Замените на ваш ключ API
+from config import TMDB_API_KEY  # Импортируем ключ API из config.py
 tmdb = TMDb()
 tmdb.api_key = TMDB_API_KEY
 tmdb.language = "ru"
