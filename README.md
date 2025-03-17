@@ -13,5 +13,5 @@ pip install -r requirements.txt
 ```py
 TMDB_API_KEY = "your-api-key-here"
 ```  
-на ваш API-ключ 
+на ваш API-ключ  
 3. Запустите `movie_library.py`  
