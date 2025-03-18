@@ -1,0 +1,33 @@
+local-movie-library
+├── src
+│   ├── api
+│   │   ├── tmdb.ts
+│   │   └── config.ts
+│   ├── models
+│   │   ├── Movie.ts
+│   │   ├── Folder.ts
+│   │   └── User.ts
+│   ├── components
+│   │   ├── MovieList
+│   │   ├── FolderList
+│   │   ├── MovieCard
+│   │   └── Navigation
+│   ├── services
+│   │   ├── MovieService.ts
+│   │   └── FolderService.ts
+│   ├── store
+│   │   ├── actions.ts
+│   │   ├── mutations.ts
+│   │   └── index.ts
+│   ├── styles
+│   │   ├── theme.ts
+│   │   └── global.css
+│   ├── utils
+│   │   └── helpers.ts
+│   └── App.ts
+├── tests
+│   └── unit
+│       └── example.test.ts
+├── package.json
+├── tsconfig.json
+└── README.md
